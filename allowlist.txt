@@ -94,4 +94,11 @@ https://www.r-project.org/,
 https://www.stats.ox.ac.uk/,
 https://www.stefanom.io/,
 squarespace.com,
-static1.squarespace.com
+static1.squarespace.com,
+allisonhorst.github.io,
+conflicted.r-lib.org,
+datalorax.github.io,
+dl.google.com,
+generics.r-lib.org,
+tidyselect.r-lib.org,
+yihui.org
