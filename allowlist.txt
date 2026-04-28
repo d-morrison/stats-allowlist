@@ -101,4 +101,8 @@ datalorax.github.io,
 dl.google.com,
 generics.r-lib.org,
 tidyselect.r-lib.org,
-yihui.org
+yihui.org,
+https://appliedcausalinference.github.io/aci_book/,
+https://bookdown.org/paul/applied-causal-analysis/, 
+https://matheusfacure.github.io/python-causality-handbook,
+https://github.com/bradyneal/causal-inference-books
