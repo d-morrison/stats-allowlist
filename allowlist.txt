@@ -1,3 +1,5 @@
+davidgohel.github.io,
+www.danieldsjoberg.com,
 https://julialang.org/,
 rstudio.github.io,
 ctan.org,
