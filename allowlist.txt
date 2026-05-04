@@ -1,3 +1,4 @@
+rstudio.github.io,
 ctan.org,
 ucdavis.github.io,
 https://api.github.com/repos/GuangchuangYu/badger,
