@@ -1,3 +1,4 @@
+https://julialang.org/,
 rstudio.github.io,
 ctan.org,
 ucdavis.github.io,
