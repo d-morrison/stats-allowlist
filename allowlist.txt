@@ -188,4 +188,4 @@ https://www.r-project.org/,
 https://www.stanford.edu/,
 https://www.stats.ox.ac.uk/,
 https://www.stefanom.io/,
-http://ucdavis.edu/,
+http://ucdavis.edu/
