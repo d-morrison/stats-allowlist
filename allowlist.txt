@@ -1,3 +1,4 @@
+d-morrison.github.io,
 googleapis.com,
 fonts.googleapis.com,
 codecov.io,
