@@ -1,3 +1,5 @@
+googleapis.com,
+fonts.googleapis.com,
 codecov.io,
 cranlogs.r-pkg.org,
 img.shields.io,
