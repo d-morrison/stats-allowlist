@@ -1,3 +1,8 @@
+codecov.io,
+cranlogs.r-pkg.org,
+img.shields.io,
+www.codefactor.io,
+www.r-pkg.org,
 downlit.r-lib.org,
 https://github.com/ucl-pond,
 https://github.com/ucl-pond/pySuStaIn,
