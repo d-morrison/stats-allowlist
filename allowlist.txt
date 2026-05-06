@@ -1,3 +1,6 @@
+cdn.jsdelivr.net,
+cdnjs.cloudflare.com,
+ctan.math.utah.edu,
 https://stackoverflow.com/questions,
 https://www.githubstatus.com/,
 d-morrison.github.io,
