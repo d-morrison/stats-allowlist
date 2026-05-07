@@ -1,3 +1,5 @@
+jarl.etiennebacher.com,
+etiennebacher.com,
 ctan.math.washington.edu,
 math.washington.edu,
 https://www.sololearn.com,
