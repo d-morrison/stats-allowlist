@@ -1,3 +1,8 @@
+https://www.sololearn.com,
+https://softwareengineering.stackexchange.com,
+https://www.reddit.com/r/learnprogramming,
+https://www.reddit.com/r/Stats/,
+https://www.reddit.com/r/epidemiology/,
 cdn.jsdelivr.net,
 cdnjs.cloudflare.com,
 ctan.math.utah.edu,
