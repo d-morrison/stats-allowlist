@@ -1,3 +1,5 @@
+ctan.math.washington.edu,
+math.washington.edu,
 https://www.sololearn.com,
 https://softwareengineering.stackexchange.com,
 https://www.reddit.com/r/learnprogramming,
