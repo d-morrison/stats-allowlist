@@ -1,3 +1,4 @@
+mirrors.ibiblio.org,
 https://biostatspmh.github.io,
 https://github.com/biostatsPMH,
 jarl.etiennebacher.com,
