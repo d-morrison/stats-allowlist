@@ -1,3 +1,4 @@
+quarto.org,
 CRAN.R-project.org,
 api.crossref.org,
 http://www.nejm.org,
