@@ -1,3 +1,7 @@
+api.crossref.org,
+http://www.nejm.org,
+jama.jamanetwork.com,
+journals.lww.com,
 r-lib.github.io,
 developers.openai.com,
 openai.com,
