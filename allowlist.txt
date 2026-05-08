@@ -1,3 +1,6 @@
+https://r-pkg.org/,
+r-pkg.org,
+api.launchpad.net,
 quarto.org,
 CRAN.R-project.org,
 api.crossref.org,
