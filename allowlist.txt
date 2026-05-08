@@ -1,3 +1,5 @@
+developers.openai.com,
+openai.com,
 mirrors.ibiblio.org,
 https://biostatspmh.github.io,
 https://github.com/biostatsPMH,
