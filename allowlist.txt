@@ -1,3 +1,4 @@
+r-lib.github.io,
 developers.openai.com,
 openai.com,
 https://chatgpt.com/,
