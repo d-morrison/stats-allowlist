@@ -1,5 +1,6 @@
 developers.openai.com,
 openai.com,
+https://chatgpt.com/,
 mirrors.ibiblio.org,
 https://biostatspmh.github.io,
 https://github.com/biostatsPMH,
