@@ -1,3 +1,5 @@
+https://www.danieldsjoberg.com/,
+https://github.com/pharmaverse,
 https://github.com/kassambara/,
 https://rpkgs.datanovia.com/,
 stan.org,
