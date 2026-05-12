@@ -1,3 +1,5 @@
+https://github.com/kassambara/,
+https://rpkgs.datanovia.com/,
 stan.org,
 pkgs.rstudio.com,
 ropensci.r-universe.dev,
